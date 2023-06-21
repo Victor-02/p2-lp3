@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar" style="background-color: #e3f2fd;">
 	<div class="container-fluid">
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 			data-bs-target="#navbarSupportedContent"
